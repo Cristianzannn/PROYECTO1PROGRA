@@ -1,0 +1,14 @@
+C:\Users\ETC\Documents\Proyectos cuatr1 2023\Proyecto1PrograVCD\ProyPV\bin\Debug\net6.0\ProyPV.DataAccess.deps.json
+C:\Users\ETC\Documents\Proyectos cuatr1 2023\Proyecto1PrograVCD\ProyPV\bin\Debug\net6.0\ProyPV.DataAccess.runtimeconfig.json
+C:\Users\ETC\Documents\Proyectos cuatr1 2023\Proyecto1PrograVCD\ProyPV\bin\Debug\net6.0\ProyPV.DataAccess.dll
+C:\Users\ETC\Documents\Proyectos cuatr1 2023\Proyecto1PrograVCD\ProyPV\bin\Debug\net6.0\ProyPV.DataAccess.pdb
+C:\Users\ETC\Documents\Proyectos cuatr1 2023\Proyecto1PrograVCD\ProyPV\obj\Debug\net6.0\ProyPV.DataAccess.csproj.AssemblyReference.cache
+C:\Users\ETC\Documents\Proyectos cuatr1 2023\Proyecto1PrograVCD\ProyPV\obj\Debug\net6.0\ProyPV.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ETC\Documents\Proyectos cuatr1 2023\Proyecto1PrograVCD\ProyPV\obj\Debug\net6.0\ProyPV.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ETC\Documents\Proyectos cuatr1 2023\Proyecto1PrograVCD\ProyPV\obj\Debug\net6.0\ProyPV.DataAccess.AssemblyInfo.cs
+C:\Users\ETC\Documents\Proyectos cuatr1 2023\Proyecto1PrograVCD\ProyPV\obj\Debug\net6.0\ProyPV.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ETC\Documents\Proyectos cuatr1 2023\Proyecto1PrograVCD\ProyPV\obj\Debug\net6.0\ProyPV.DataAccess.dll
+C:\Users\ETC\Documents\Proyectos cuatr1 2023\Proyecto1PrograVCD\ProyPV\obj\Debug\net6.0\refint\ProyPV.DataAccess.dll
+C:\Users\ETC\Documents\Proyectos cuatr1 2023\Proyecto1PrograVCD\ProyPV\obj\Debug\net6.0\ProyPV.DataAccess.pdb
+C:\Users\ETC\Documents\Proyectos cuatr1 2023\Proyecto1PrograVCD\ProyPV\obj\Debug\net6.0\ProyPV.DataAccess.genruntimeconfig.cache
+C:\Users\ETC\Documents\Proyectos cuatr1 2023\Proyecto1PrograVCD\ProyPV\obj\Debug\net6.0\ref\ProyPV.DataAccess.dll
